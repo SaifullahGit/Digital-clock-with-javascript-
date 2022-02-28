@@ -1,0 +1,14 @@
+.display {
+    background-color: rgb(61, 63, 63);
+    text-align: center;
+    margin: 100px;
+    padding: 50px;
+    border-radius: 15px;
+}
+
+.dark {
+    background-color: rgb(18, 77, 77);
+    padding: 20px;
+    margin: 50px;
+    border-radius: 20px;
+}
